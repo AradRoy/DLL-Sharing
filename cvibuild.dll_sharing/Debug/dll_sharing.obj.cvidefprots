@@ -1,0 +1,30 @@
+[initialize]
+Class="Function"
+Prototype="void initialize();"
+SourceLocation="c:\Users\Roy\Documents\Embedded_systems\Homework\week 2 - DLL\DLL sharing program\dll_sharing.c:12:6"
+
+[terminate]
+Class="Function"
+Prototype="void terminate();"
+SourceLocation="c:\Users\Roy\Documents\Embedded_systems\Homework\week 2 - DLL\DLL sharing program\dll_sharing.c:18:6"
+
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="c:\Users\Roy\Documents\Embedded_systems\Homework\week 2 - DLL\DLL sharing program\dll_sharing.c:25:5"
+
+[exitFunc]
+Class="Function"
+Prototype="int exitFunc(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Roy\Documents\Embedded_systems\Homework\week 2 - DLL\DLL sharing program\dll_sharing.c:39:17"
+
+[useDll]
+Class="Function"
+Prototype="int useDll(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Roy\Documents\Embedded_systems\Homework\week 2 - DLL\DLL sharing program\dll_sharing.c:57:17"
+
+[playSound]
+Class="Function"
+Prototype="int playSound(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Roy\Documents\Embedded_systems\Homework\week 2 - DLL\DLL sharing program\dll_sharing.c:80:17"
+
